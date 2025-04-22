@@ -1,0 +1,8 @@
+streamlit
+streamlit_option_menu
+openpyxl
+pandas 
+PyPDF2 
+openai 
+python-dotenv
+python-dateutil
